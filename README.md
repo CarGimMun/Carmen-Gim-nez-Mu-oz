@@ -8,8 +8,8 @@ I'm passionate about applying **AI and software engineering** to improve healthc
 ---
 
 ### 🔬 Current Projects
-- 🧠 **IAClaro** – AI-driven app that anonymizes and simplifies hospital discharge reports while assigning ICD-10 codes.
-- 📱 **SOSFall** – Fall detection Android app developed in Kotlin using movement data and accelerometers.
+-  **IAClaro** – AI-driven app that anonymizes and simplifies hospital discharge reports while assigning ICD-10 codes.
+-  **SOSFall** – Fall detection Android app developed in Kotlin using movement data and accelerometers.
 
 ---
 
@@ -20,10 +20,10 @@ I'm passionate about applying **AI and software engineering** to improve healthc
 
 ---
 
-### 🌍 About Me
-- 🎓 BSc Biomedical Engineering – *Universidad Autónoma de Madrid*  
-- 🧪 Currently working at Medtronic (IHS, CRSS)  
-- 🌱 Interested in any health-tech application: from wearables, AI for clinical use, or  human–machine interfaces  
+### 🌱 About Me
+-  BSc Biomedical Engineering – *Universidad Autónoma de Madrid*  
+-  Currently working at Medtronic (IHS, CRSS)  
+-  Interested in any health-tech application: from wearables, AI for clinical use, or  human–machine interfaces  
 
-📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/carmen-gimenez-munoz) | [Email](mailto:carmen.gimenez@example.com)
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/carmen-gimenez-munoz) | [Email](mailto:car.gimenezmunoz@gmail.com)
 
