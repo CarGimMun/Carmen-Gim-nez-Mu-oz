@@ -26,5 +26,5 @@ I'm passionate about applying **AI and software engineering** to improve healthc
 -  Interested in any health-tech application: from wearables, AI for clinical use, or  human–machine interfaces  
 
 ---
-📫 **Contact:** [LinkedIn](https://www. linkedin.com/in/carmen-gimenez-munozmumunoz) | [Email](mailto:car.gimenezmunoz@gmail.com)
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/carmen-gimenez-munozmumunoz) | [Email](mailto:car.gimenezmunoz@gmail.com)
 
